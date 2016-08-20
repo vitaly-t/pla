@@ -1,2 +1,4 @@
-# pla
-Promise Library Adapter
+PLA
+===
+
+This project is in its early development stage.

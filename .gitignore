@@ -1,0 +1,7 @@
+.idea/
+node_modules/
+coverage/
+*.map
+
+typescript/*.js
+test/typescript/*.js
